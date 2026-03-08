@@ -1485,13 +1485,31 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/immersive-translate.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.chatgptautotalk.com">
+        💾 <a href="https://github.com/immersive-translate/immersive-translate/releases/latest/download/immersive-translate.user.js">
             Install</a> /
-        📖 <a href="https://docs.chatgptautotalk.com/#readme">
+        📖 <a href="https://github.com/immersive-translate/immersive-translate/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
+        📢 <a href="https://github.com/immersive-translate/immersive-translate/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://github.com/immersive-translate/immersive-translate/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Ultimate Text Selection Translator -->
+    <summary><a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator">Ultimate Text Selection Translator</a> - Instantly translates selected text on any website using a shortcut and one-click button.</summary><br>
+    <blockquote>
+        <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator">
+            <img width=511 src="https://raw.githubusercontent.com/DREwX-code/Ultimate-Text-Selection-Translator/main/assets/UTST_poster.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/536284/Ultimate-Text-Selection-Translator.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator#readme">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/536284-ultimate-text-selection-translator-instantly-translate-any-selected-text/feedback">
+            Discuss</a> /
+        🐛 <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1653,7 +1671,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,138 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-20 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,189 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-06 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
