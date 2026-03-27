@@ -830,15 +830,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.googlegpt.io">
-            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+        <a href="https://github.com/KudoAI/googlegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.googlegpt.io">
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.googlegpt.io/#readme">
+        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
@@ -1121,16 +1121,17 @@ Userscripts can be used w/ the following browsers:
             Report bug</a>
     </blockquote>
 </details>
+
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.googlegpt.io">
-            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+        <a href="https://github.com/KudoAI/googlegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.googlegpt.io">
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.googlegpt.io/#readme">
+        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
@@ -1675,7 +1676,7 @@ Userscripts can be used w/ the following browsers:
 * [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
 * [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 * [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
-* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 1,928 | 🐛 13 | 🌐 TypeScript | 📅 2026-01-23 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
+* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 1,929 | 🐛 13 | 🌐 TypeScript | 📅 2026-01-23 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1699,7 +1700,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,232 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-25 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,232 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-26 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
