@@ -1676,7 +1676,7 @@ Userscripts can be used w/ the following browsers:
 * [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
 * [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 * [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
-* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 1,933 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-23 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
+* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 1,934 | 🐛 14 | 🌐 TypeScript | 📅 2026-01-23 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
